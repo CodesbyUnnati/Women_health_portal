@@ -26,7 +26,7 @@
 <h1>Editor</h1>
 🆚Code
 
-<h1>Deployment</h1>✔️GCP
+<h1>Deployment</h1>✔️Github Pages
 
 <h1>Created and Deployed by</h1>
   <b>Unnati Mishra🙎 Yashasvi Mishra & Nayna </b>
